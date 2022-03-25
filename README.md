@@ -10,7 +10,7 @@ ThinkPHP-Admin
 
 3.进入项目目录,
 
-`composer update` 
+`composer install` 
 
 4.然后运行数据库生成命令
 
